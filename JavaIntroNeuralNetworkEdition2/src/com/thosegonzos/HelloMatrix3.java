@@ -14,5 +14,6 @@ public class HelloMatrix3
 		
 		Matrix m = new Matrix(matrixData);
 		System.out.println("Hello Matrix 3");
+		
 	}
 }
