@@ -95,7 +95,7 @@ public class HopfieldApplet extends Applet
 	public void init()
 	{
 		setLayout(null);
-		setBackground(Color.lightGray);
+		setBackground(Color.green);
 		this.label1.setText("Enter the activation weight matrix:");
 		add(this.label1);
 		this.label1.setBounds(24, 12, 192, 12);
